@@ -1190,7 +1190,7 @@ h2, h3, h4, h5, h6, figure {
 }
 
 #started {
-  background: #AAB1BA;
+  background: #49CCC0;
 }
 
 #started .heading h2 {
@@ -1199,7 +1199,7 @@ h2, h3, h4, h5, h6, figure {
   font-weight: 300;
 }
 #started .heading p {
-  color: white;
+  color: #fff;
 }
 #started .form-control {
   background: rgba(255, 255, 255, 0.2);
@@ -1231,7 +1231,7 @@ h2, h3, h4, h5, h6, figure {
 #started .btn {
   height: 80px;
   border: none !important;
-  background: #80D6FA;
+  background: #FF6861;
   color: #fff;
   font-size: 26px;
   font-weight: 400;
@@ -1733,6 +1733,6 @@ h2, h3, h4, h5, h6, figure {
   text-align: center;
   padding-top: 50px;
   color: whitesmoke;
-  
+
 }
 /*# sourceMappingURL=style.css.map */
